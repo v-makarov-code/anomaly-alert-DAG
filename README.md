@@ -33,11 +33,11 @@ $$x_i < Q_{25} - a \cdot IQR \quad \text{или} \quad x_i > Q_{75} + a \cdot IQ
 где $IQR$ — межквартильный размах, а $a$ — коэффициент.
 
 ## Пример сообщения алерта в телеграм
-![alert-telegram](https://github.com/v-makarov-code/anomaly-alert-DAG/blob/main/anomaly_report.png)
+![alert-telegram](https://github.com/v-makarov-code/anomaly-alert-DAG/blob/main/anomaly_report.png)  
 *Рис.1. Пример сообщения в телеграм при обнаруженной аномалии в метрике*
 
 ### Вид дашборда на который указывает ссылка
-![dashboard](https://github.com/v-makarov-code/anomaly-alert-DAG/blob/main/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B8-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F-2025-08-05T11-51-49.456Z.jpg)
+![dashboard](https://github.com/v-makarov-code/anomaly-alert-DAG/blob/main/%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%B8-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F-2025-08-05T11-51-49.456Z.jpg)  
 *Рис.2. Дашборд Superset для отслеживания ключевых метрик в realtime*
 ## Технологии 
 
